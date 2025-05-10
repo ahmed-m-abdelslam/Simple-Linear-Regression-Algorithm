@@ -20,3 +20,16 @@ This project implements a simple **Linear Regression** model from scratch using 
 
 ## 📈 Model Equation
 
+y = w * X + b
+
+
+Where:
+- `X` is the input (independent variable)
+- `y` is the target output (dependent variable)
+- `w` is the weight (slope)
+- `b` is the bias (intercept)
+
+---
+
+
+
